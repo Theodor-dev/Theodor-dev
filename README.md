@@ -1,16 +1,15 @@
-### Hi there 👋
+### Ciao a tutti! 👋
 
-<!--
-**Theodor-dev/Theodor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Il mio nome è Teo e sono uno sviluppatore web alle prime armi, un sognatore, un buon amico e un aspirante creatore di videogame! 
 
-Here are some ideas to get you started:
+- 🔭 Al momento sto lavorando su vari progetti riguardanti lo sviluppo web utilizzando Angular, così da migliorare le mie skill tecniche ogni giorno un po' di più! In cantiere al momento conservo un paio di progetti personali e un progetto di gruppo che sto portando avanti insieme a uno straordinario team formatosi grazie alla scuola di programmazione Web "Develhope";
+- 🌱 Nonostante i progetti a cui lavoro, non si può certamente dire di essere uno sviluppatore web fatto e finito... per ora! Il mio studio sull'argomento è costante al fine di poter dare il massimo all'interno di un team di lavoro. Per questo, devo ringraziare in modo particolare tutti coloro che fanno parte del progetto "develhope", la scuola che mi ha permesso di mettermi in gioco mettendomi a lavoro su tutte le tecnologie che sto pian piano apprendendo. insegnandomi ogni cosa necessaria, partendo dalle basi fino ad arrivare al livello a cui posso dire con orgoglio di aver raggiunto. La scuola mi ha insegnato a dare il massimo nel lavoro individuale e di gruppo e ad essere una risorsa preziosa per il workflow. Nel dettaglio, riguardo agli studi segutii con develhope, ho appreso pienamente l'utilizzo di Git, HTML, CSS e Javascript, mentre sono ancora oggi concentrato sul potenziamento nell'utilizzo di Angular;
+- 👯 Le mie skill tecniche sono in continua evoluzione, ma il mio punto di forza, modestia a parte, è indubbiamente il rapporto umano. Amo parlare con le persone e conoscere ognuno sempre più a fondo, così da stringere legami sinceri e profondi, certo più complicati, ma indubbiamente più appaganti. Trovo sia fondamentale mettere ogni giorno in risalto i punti di forza delle persone che ci sono vicine, ciascuno di noi è unico e speciale e per quanto questo possa sembrare banale o scontato, spesso rischiamo di dimenticarcene, ed è fondamentale, a mio avviso, ricordarcene ogni giorno. Inoltre, è sempre bello sentirsi dire da qualcuno "Tu sei speciale";
+- 🤔 Sono del parere che il modo più efficace per migliorare in qualcosa sia accettare l'aiuto altrui, in particolar modo di chi è più esperto; un altra ragione per cui preferisco il lavoro di gruppo al lavoro individuale è proprio la crescita individuale di ciascuno all'interno del gruppo, per questo sono sicuro che il modo più veloce per evolvermi da "Junior web developer" a "Web developer" sia il confronto con un team che lavora nel settore da più tempo;
+- 😄 Nel tempo libero amo giocare ai videogiochi :video_game: o immergermi nella natura :deciduous_tree: ma entrambe le cose diventano il massimo quando sono in compagnia di buoni amici;
+- :envelope: Per qualsiasi informazione, o semplicemente per fare due chiacchiere (in quanto lo scambio è fondamentale, sempre), sarò felice di essere contattato ai seguenti recapiti:
+- :mailbox: mail: matteoporcaro1@gmail.com
+- :telephone_receiver: telegram: @TheTheo27
+- :office: LinkedIn: https://www.linkedin.com/in/matteo-porcaro-9b9a75206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByEgmsGf2SBWJXIsyjVqhRg%3D%3D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Grazie per aver visitato il mio profilo Github, a presto! :punch:
